@@ -41,8 +41,6 @@
  * Released under the MIT License.
  */
 
-/*! highlight.js v9.9.0 | BSD3 License | git.io/hljslicense */
-
 /**
  * @license
  * Lodash <https://lodash.com/>

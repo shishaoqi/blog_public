@@ -75,8 +75,6 @@
 
 /*! Select2 4.0.3 | https://github.com/select2/select2/blob/master/LICENSE.md */
 
-/*! highlight.js v9.9.0 | BSD3 License | git.io/hljslicense */
-
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
  * @version 1.16.1
