@@ -1,0 +1,1 @@
+import{_ as t,W as c,X as r,Y as e,Z as a}from"./framework-7d1f27fd.js";const n={},s=e("h1",{id:"泛型-generic",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#泛型-generic","aria-hidden":"true"},"#"),a(" 泛型（generic）")],-1),_=[s];function o(i,d){return c(),r("div",null,_)}const l=t(n,[["render",o],["__file","泛型.html.vue"]]);export{l as default};
